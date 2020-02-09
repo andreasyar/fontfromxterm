@@ -34,7 +34,7 @@ Refresh fonts information cache:
 # fc-cache -f -v
 ```
 
-**You must close all instances of terminal emulation to changes take effect**
+**You must close all instances of terminal emulator to changes take effect**
 
 Go to terminal emulator font settings and choose font "Fixed SemiCondensed" size 10
 
